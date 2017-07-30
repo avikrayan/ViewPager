@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/avik/.android/build-cache/7ede72b925b6f7357c26bc13e9faa6cc39179340/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/home/avik/Development/ViewPager/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8db927f0701089fea70c5653ebaede9ae0232db8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/avik/.android/build-cache/3d5292aec652de0ecbd49eff1270fba38b7ed019/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/home/avik/Development/ViewPager/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f133d37176e2a20891d237209af6e56aa210fbeb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/avik/Development/ViewPager/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/avik/Development/ViewPager/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_aaea1be9413f392adffe9f5406c4313de381fb6a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/avik/.android/build-cache/959ecdfd75f96dfd5a18a0326424c73b6280ceca/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/home/avik/Development/ViewPager/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eef189e753e88e8c5ddfd678253adf0495a61c35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/avik/Development/ViewPager/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5c319b6de664913cca2b12b87ae7b8e4b47dfddc">
+        <dex dex="/home/avik/Development/ViewPager/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1e1ae7e06817c5b3efde5a709f9ceecf78b6c83b/classes.dex" />
+    </item>
+
+</items>

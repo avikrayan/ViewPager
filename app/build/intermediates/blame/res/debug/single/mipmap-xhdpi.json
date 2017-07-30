@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/avik/Development/ViewPager/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/home/avik/Development/ViewPager/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/avik/Development/ViewPager/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher_round.png",
+        "source": "/home/avik/Development/ViewPager/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    }
+]
